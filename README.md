@@ -1,5 +1,6 @@
 # Biblioteca-Sync
 Fecha: 15 de marzo de 2024
+
 Este proyecto es una implementación en C usando pthreads. Se incluyen implementaciones de semáforos, monitores y barreras.
 
 ## Autores
