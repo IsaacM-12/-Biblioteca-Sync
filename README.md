@@ -11,7 +11,7 @@ Pablo Sandí
 
 Gerald Matarrita
 
-##Descripción
+## Descripción
 
 Este proyecto es una implementación en C usando pthreads. Se incluyen implementaciones de semáforos, monitores y barreras.
 
