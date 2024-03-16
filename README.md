@@ -6,8 +6,7 @@ Fecha de creación: 15 de marzo de 2024
 
 Este proyecto es una implementación en C usando pthreads. Se incluyen implementaciones de semáforos, monitores y barreras.
 
-En mi_programa se define una cantidad de hilos a usar y una cantidad de iteraciones que debe hacer cada hilo, luego para las implementaciones de semáforos y monitores se hace un loop en el que N hilos aumentan el contador por N iteraciones,
-para la parte de barrera espera a que N hilos lleguen a la barrera, anuncia su llegada y luego anuncia cuando pasan la barrera
+En mi_programa.c se define una cantidad de hilos a usar y una cantidad de iteraciones que debe hacer cada hilo. Luego, para las implementaciones de semáforos y monitores, se hace un bucle en el que N hilos aumentan el contador por N iteraciones. Para la parte de barrera, espera a que N hilos lleguen a la barrera, anuncia su llegada y luego anuncia cuando pasan la barrera
 
 ## Autores
 Isaac Meléndez
